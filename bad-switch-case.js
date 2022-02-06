@@ -2,6 +2,7 @@
  * @author Baxtiyor Mardonov<jbalancer@mail.ru>
  * @name TransactionProcessorByCardSystem
  * @description Argument against "switch case" construct for extensible code. Example with transaction processor by card system
+ * Repository https://github.com/xMMB/solid.js/blob/main/bad-switch-case.js
  **/
 
 // -------- Non-extensible code
